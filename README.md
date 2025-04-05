@@ -5,7 +5,7 @@
 
  
 
-🧠 Problem Statement
+🧠 Problem Statement:
 In the competitive world of e-commerce, understanding sales performance, customer behavior, and marketing impact is crucial. This project aims to help business stakeholders:
 
 Analyze sales & revenue trends over time
@@ -20,7 +20,7 @@ Provide actionable business recommendations
 
  
 
-🗂️ Dataset Used
+🗂️ Dataset Used:
 📦 Brazilian E-Commerce Public Dataset by Olist
 
 Orders, Products, Payments, Sellers, Customers, Reviews
@@ -33,7 +33,7 @@ Source: Kaggle
 
  
 
-🛠 Tech Stack
+🛠 Tech Stack:
 🐍 Python (Pandas, Numpy)
 
 🧮 SQL (Data Cleaning, Aggregation)
@@ -47,7 +47,7 @@ Source: Kaggle
 📌 Key Dashboards (Tableau)
 🔗 Live Dashboards hosted on Tableau Public
 
-📊 Dashboards Overview
+📊 Dashboards Overview:
 1.Sales & Finance:
 Visualizes revenue trends, payment methods, and product category performance. Key insight: Perfumery and Electronics lead in revenue; credit card is the most used payment method.
 

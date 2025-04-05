@@ -1,7 +1,7 @@
 # E-Commerce-Sales-Customer-Analytics-Dashboard
 
-📊 E-Commerce Sales & Customer Analytics Dashboard
-🚀 Full-stack data analytics project powered by SQL, Python, and Tableau. Derived key business insights from Brazil’s largest e-commerce dataset to drive decisions across Sales, Marketing, Product, and Customer Segments.
+E-Commerce Sales & Customer Analytics Dashboard
+Full-stack data analytics project powered by SQL, Python, and Tableau. Derived key business insights from Brazil’s largest e-commerce dataset to drive decisions across Sales, Marketing, Product, and Customer Segments.
 
  
 
